@@ -47,12 +47,10 @@ function Index({ data }) {
       >
         <div className="w-4/5 md:w-3/4 lg:w-7/12 mt-20 font-serif font-hairline self-start">
           <h1 className="text-3xl md:text-5xl text-indigo-700 leading-tight">
-            Serif - Gatsby Small Business Theme.
+            Clover Hill Pet Care
           </h1>
           <p className="text-base">
-            Multiple content types using Markdown and JSON sources. Responsive
-            design and SCSS. This is a beautiful and artfully designed starting
-            theme.
+            Offerng exceptional pet care in the Greater Portland, Oregon area. Specilizing in dog walking, hiking, and coaching.
           </p>
         </div>
 
@@ -67,11 +65,11 @@ function Index({ data }) {
             <div className="flex-1">
               <p>
                 <strong>Phone: </strong>
-                XXX XXX XXX
+                774 - 249 - 8127
               </p>
               <p>
                 <strong>Email: </strong>
-                xxx@xxx.com
+                cloverhillpetcare@gmail.com
               </p>
             </div>
             <div className="flex-initial mt-6 sm:mt-0">
