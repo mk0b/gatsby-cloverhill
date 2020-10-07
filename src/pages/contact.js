@@ -21,10 +21,10 @@ const Contact = () => {
           }}
         >
           <p>
-            <strong>Phone:</strong> XXX XXX XXX
+            <strong>Phone:</strong> 774 - 249 - 8127
           </p>
           <p>
-            <strong>Email: </strong>xxx@xxx.com
+            <strong>Email: </strong>cloverhillpetcare@gmail.com
           </p>
         </div>
         <div className="w-full">
