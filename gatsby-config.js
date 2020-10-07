@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Tailwind Serif`,
-    description: `Gatsby starter styled with Tailwind`,
+    title: `Clover Hill Pet Care`,
+    description: `Clover Hill Pet Care. Exceptional animal care and dog walking in the greater Portland, Oregon area.`,
     author: `@windedge`
   },
   plugins: [
