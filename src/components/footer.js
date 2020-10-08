@@ -13,8 +13,9 @@ const Footer = ({ className, ...props }) => {
         <div className="flex-initial text-xl font-semibold">Clover Hill Pet Care LLC</div>
         <div>
           <ul className="flex flex-col md:flex-row text-sm -mx-3 font-medium">
-            <li className="mx-3"><Link to="/">Home</Link></li>
-            <li className="mx-3"><Link to="/contact">Contact</Link></li>
+            <li className="mx-3"><Link to="/">HOME</Link></li>
+            <li className="mx-3"><Link to="/services">SERVICES</Link></li>
+            <li className="mx-3"><Link to="/contact">CONTACT</Link></li>
             <li className="mx-3">©2020 Gatsby Serif</li>
           </ul>
         </div>
