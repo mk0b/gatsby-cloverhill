@@ -140,7 +140,8 @@ function Index({ data }) {
       </div>
 
 </div>
-              <section className="quotes">
+      <div>        
+            <section className="quotes">
                 <div className="bubble">
                   <blockquote>
                     I refuse to accept the view that mankind is so tragically bound to the
