@@ -139,7 +139,7 @@ function Index({ data }) {
         </div>
       </div>
 
-</div>
+
       <div>        
             <section className="quotes">
                 <div className="bubble">
