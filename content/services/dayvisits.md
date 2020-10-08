@@ -1,13 +1,11 @@
 ---
-path: '/services/accounting'
-title: 'Accounting'
+path: '/services/dayvisits'
+title: 'Day Visits'
 date: 2018-11-18T12:33:46+10:00
 image: 'services/noun_591323.png'
 ---
 
-Lorem markdownum aequalis strigis. _Saetigeri iubeas_, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
+30 min Day Visit. Commonly used for dog walking.
 
 ## Ne verba patulosque numen vix libet
 
