@@ -50,7 +50,7 @@ function Index({ data }) {
             Clover Hill Pet Care
           </h1>
           <p className="text-base">
-            Exceptional pet care in the greater Portland, Oregon area. Day visits, Overnights, Hiking, and Coaching. Servicing Hillsboro, Beaverton, and Portland Oregon.
+            Offering exceptional pet care servicing Hillsboro, Beaverton, and Portland Oregon. Day visits, Overnights, Hiking, and Coaching.
           </p>
         </div>
 
