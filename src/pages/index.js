@@ -78,6 +78,8 @@ function Index({ data }) {
               </Link>
             </div>
           </div>
+        </div>
+
         <div className="flex flex-col mt-10 md:mt-16">
           <p className="mb-2 text-4xl text-gray-800 self-center">
             Our Services
