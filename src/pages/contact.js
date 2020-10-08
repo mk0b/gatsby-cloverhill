@@ -21,7 +21,7 @@ const Contact = () => {
           }}
         >
           <p>
-            <strong>Phone:</strong> 774 - 249 - 8127
+            <strong>Phone:</strong> 774-249-8127
           </p>
           <p>
             <strong>Email: </strong>cloverhillpetcare@gmail.com
