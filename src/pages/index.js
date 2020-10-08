@@ -1,6 +1,6 @@
 import React from "react";
 import cx from "classnames";
-import home from "../images/website_background_chpc.png";
+//import home from "../images/website_background_chpc.png";
 import branding from "../images/noun_branding_1885335.svg";
 import processing from "../images/noun_The Process_1885341.svg";
 import modeling from "../images/noun_3d modeling_1885342.svg";
