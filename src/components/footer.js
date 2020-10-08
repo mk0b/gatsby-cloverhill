@@ -10,12 +10,12 @@ const Footer = ({ className, ...props }) => {
   return (
     <>
       <div className={className} {...props}>
-        <div className="flex-initial text-xl font-semibold">Gatsby Serif</div>
+        <div className="flex-initial text-xl font-semibold">Clover Hill Pet Care LLC</div>
         <div>
           <ul className="flex flex-col md:flex-row text-sm -mx-3 font-medium">
             <li className="mx-3"><Link to="/">Home</Link></li>
             <li className="mx-3"><Link to="/contact">Contact</Link></li>
-            <li className="mx-3">©2019 Gatsby Serif</li>
+            <li className="mx-3">©2020 Gatsby Serif</li>
           </ul>
         </div>
       </div>
@@ -23,13 +23,13 @@ const Footer = ({ className, ...props }) => {
       <div className="w-full px-8 py-2 text-white text-xs font-light bg-black flex flex-col sm:flex-row justify-between items-start md:items-center">
         <div>
           <strong className="font-bold">Phone: </strong>
-          XXX XXX XXX
+          774-249-8127
           <strong className="ml-3 font-bold">Email: </strong>
-          xxx@xxx.com
+          cloverhillpetcare@gmail.com
         </div>
         <div>
           <Link to="/" className="hover:underline">
-            www.xxx.com
+            www.cloverhillpetcare.com
           </Link>
         </div>
       </div>
