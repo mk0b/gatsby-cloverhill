@@ -77,7 +77,30 @@ function Index({ data }) {
                 <StyledButton>Contact</StyledButton>
               </Link>
             </div>
+        <div className="flex flex-col mt-10 md:mt-16">
+          <p className="mb-2 text-4xl text-gray-800 self-center">
+            Our Services
+          </p>
+
+          <div className="flex flex-wrap">
+            {services.map(({ node }) => (
+              <Service
+                title={node.frontmatter.title}
+                url={node.frontmatter.path}
+                key={node.frontmatter.path}
+              >
+                {node.excerpt}
+              </Service>
+            ))}
           </div>
+
+          <div className="self-center mt-8">
+            <Link to="/services">
+              <StyledButton>View all services</StyledButton>
+            </Link>
+          </div>
+        </div>
+        <div> 
               <section className="quotes">
                 <div className="bubble">
                   <blockquote>
@@ -124,32 +147,7 @@ function Index({ data }) {
               <br />
               <br />
               <br />
-        </div>
-
-        <div className="flex flex-col mt-10 md:mt-16">
-          <p className="mb-2 text-4xl text-gray-800 self-center">
-            Our Services
-          </p>
-
-          <div className="flex flex-wrap">
-            {services.map(({ node }) => (
-              <Service
-                title={node.frontmatter.title}
-                url={node.frontmatter.path}
-                key={node.frontmatter.path}
-              >
-                {node.excerpt}
-              </Service>
-            ))}
           </div>
-
-          <div className="self-center mt-8">
-            <Link to="/services">
-              <StyledButton>View all services</StyledButton>
-            </Link>
-          </div>
-        </div>
-
         <div className="flex flex-col mt-10 md:mt-16">
           <p className="mb-2 text-4xl text-gray-800 self-center">
             Our Features
