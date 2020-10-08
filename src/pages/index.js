@@ -150,6 +150,7 @@ function Index({ data }) {
           </div>
             <section> Service Areas </section>
           </div>
+          </div>
         </div>
       </div>
     </Layout>
