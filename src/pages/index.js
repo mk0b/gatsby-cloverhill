@@ -148,8 +148,39 @@ function Index({ data }) {
               <br />
               <br />
           </div>
-            <section> Service Areas </section>
-          </div>
+        <div className="flex flex-col mt-10 md:mt-16">
+          <p className="mb-2 text-4xl text-gray-800 self-center">
+            Our Features
+          </p>
+
+          <div className="flex flex-wrap justify-center items-stretch -mx-2">
+            <div className="w-full md:w-1/2 lg:w-1/3 mt-2">
+              <div className="h-full m-2 p-4 border-2 border-gray-300 flex flex-col items-center text-center">
+                <div className="w-16 h-16 mb-4">
+                  <img alt="branding" src={branding} />
+                </div>
+                <p className="text-2xl w-full">Free Consultation</p>
+                <p>New clients recieve an obligation free consultation.</p>
+              </div>
+            </div>
+            <div className="w-full md:w-1/2 lg:w-1/3 mt-2">
+              <div className="h-full m-2 p-4 border-2 border-gray-300 flex flex-col items-center text-center">
+                <div className="w-16 h-16 mb-4">
+                  <img alt="processing" src={processing} />
+                </div>
+                <p className="text-2xl w-full">Certified Accountants</p>
+                <p>All members of our team are certified accountants.</p>
+              </div>
+            </div>
+            <div className="w-full md:w-1/2 lg:w-1/3 mt-2">
+              <div className="h-full m-2 p-4 border-2 border-gray-300 flex flex-col items-center text-center">
+                <div className="w-16 h-16 mb-4">
+                  <img alt="modeling" src={modeling} />
+                </div>
+                <p className="text-2xl w-full">Tax Compliance</p>
+                <p>We stay up to date on the latest changes to the tax code.</p>
+              </div>
+            </div>
           </div>
         </div>
       </div>
