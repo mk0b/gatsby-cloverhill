@@ -50,7 +50,7 @@ function Index({ data }) {
             Clover Hill Pet Care
           </h1>
           <p className="text-base">
-            Offerng exceptional pet care in the Greater Portland, Oregon area. Specilizing in dog walking, hiking, and coaching.
+            Exceptional pet care in the greater Portland, Oregon area. Day visits, Overnights, Hiking, and Coaching. Servicing Hillsboro, Beaverton, and Portland Oregon.
           </p>
         </div>
 
@@ -65,7 +65,7 @@ function Index({ data }) {
             <div className="flex-1">
               <p>
                 <strong>Phone: </strong>
-                774 - 249 - 8127
+                774-249-8127
               </p>
               <p>
                 <strong>Email: </strong>
