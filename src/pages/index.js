@@ -77,54 +77,6 @@ function Index({ data }) {
                 <StyledButton>Contact</StyledButton>
               </Link>
             </div>
-          </div>
-              <section className="quotes">
-                <div className="bubble">
-                  <blockquote>
-                    I refuse to accept the view that mankind is so tragically bound to the
-                    starless midnight of racism and war that the bright daybreak of peace
-                    and brotherhood can never become a reality... I believe that unarmed
-                    truth and unconditional love will have the final word.
-                  </blockquote>
-                  <div />
-                  <cite> Martin Luther King, Jr.</cite>{" "}
-                </div>
-                <div className="bubble">
-                  <blockquote>
-                    {" "}
-                    Peace is not a relationship of nations. It is a condition of mind
-                    brought about by a serenity of soul. Peace is not merely the absence of
-                    war. It is also a state of mind. Lasting peace can come only to peaceful
-                    people.
-                  </blockquote>
-                  <div />
-                  <cite> Jawaharlal Nehru</cite>{" "}
-                </div>
-                <div className="bubble">
-                  <blockquote>
-                    {" "}
-                    Forgiveness is not always easy. At times, it feels more painful than the
-                    wound we suffered, to forgive the one that inflicted it. And yet, there
-                    is no peace without forgiveness.
-                  </blockquote>
-                  <div />
-                  <cite> Marianne Williamson</cite>{" "}
-                </div>
-                <div className="bubble">
-                  <blockquote>
-                    Of all our dreams today there is none more important - or so hard to
-                    realise - than that of peace in the world. May we never lose our faith
-                    in it or our resolve to do everything that can be done to convert it one
-                    day into reality.{" "}
-                  </blockquote>
-                  <div />
-                  <cite> Lester B. Pearson</cite>{" "}
-                </div>
-              </section>
-              <br />
-              <br />
-              <br />
-        </div>
 
         <div className="flex flex-col mt-10 md:mt-16">
           <p className="mb-2 text-4xl text-gray-800 self-center">
@@ -186,6 +138,55 @@ function Index({ data }) {
           </div>
         </div>
       </div>
+
+</div>
+              <section className="quotes">
+                <div className="bubble">
+                  <blockquote>
+                    I refuse to accept the view that mankind is so tragically bound to the
+                    starless midnight of racism and war that the bright daybreak of peace
+                    and brotherhood can never become a reality... I believe that unarmed
+                    truth and unconditional love will have the final word.
+                  </blockquote>
+                  <div />
+                  <cite> Martin Luther King, Jr.</cite>{" "}
+                </div>
+                <div className="bubble">
+                  <blockquote>
+                    {" "}
+                    Peace is not a relationship of nations. It is a condition of mind
+                    brought about by a serenity of soul. Peace is not merely the absence of
+                    war. It is also a state of mind. Lasting peace can come only to peaceful
+                    people.
+                  </blockquote>
+                  <div />
+                  <cite> Jawaharlal Nehru</cite>{" "}
+                </div>
+                <div className="bubble">
+                  <blockquote>
+                    {" "}
+                    Forgiveness is not always easy. At times, it feels more painful than the
+                    wound we suffered, to forgive the one that inflicted it. And yet, there
+                    is no peace without forgiveness.
+                  </blockquote>
+                  <div />
+                  <cite> Marianne Williamson</cite>{" "}
+                </div>
+                <div className="bubble">
+                  <blockquote>
+                    Of all our dreams today there is none more important - or so hard to
+                    realise - than that of peace in the world. May we never lose our faith
+                    in it or our resolve to do everything that can be done to convert it one
+                    day into reality.{" "}
+                  </blockquote>
+                  <div />
+                  <cite> Lester B. Pearson</cite>{" "}
+                </div>
+              </section>
+              <br />
+              <br />
+              <br />
+        </div>
     </Layout>
   );
 }
