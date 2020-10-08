@@ -7,7 +7,7 @@ featured: true
 draft: false
 ---
 
-## $40/hike
+## $45/hike
 
 Wish you had the energy in these crazy times to take your dog for a hike? Still just too busy to do it because now you are working from home and work and life are blending together? I’m here to help. I’ll take your dog hiking in a beautiful wooded area. Your dog is sure to love it and will thank you for it.
 
