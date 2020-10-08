@@ -1,6 +1,6 @@
 ---
-path: '/services/business-advisory'
-title: 'Business Advisory'
+path: '/services/overnights'
+title: 'Overnights'
 date: 2018-11-28T15:14:39+10:00
 image: '/services/default.png'
 featured: true
