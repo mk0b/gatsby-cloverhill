@@ -27,55 +27,6 @@ const Contact = () => {
             <strong>Email: </strong>cloverhillpetcare@gmail.com
           </p>
         </div>
-        <div className="w-full">
-          <h3 className="mt-10 text-2xl">Business Hours</h3>
-          <table className="w-full md:w-3/4 text-left w-full border-collapse">
-            <tbody>
-              <tr className="border-t h-10">
-                <td className="font-semibold">Monday</td>
-                <td>8:30am</td>
-                <td>-</td>
-                <td>5:00pm</td>
-              </tr>
-              <tr className="border-t h-10">
-                <td className="font-semibold">Tuesday</td>
-                <td>8:30am</td>
-                <td>-</td>
-                <td>5:00pm</td>
-              </tr>
-              <tr className="border-t h-10">
-                <td className="font-semibold">Wednesday</td>
-                <td>8:30am</td>
-                <td>-</td>
-                <td>5:00pm</td>
-              </tr>
-              <tr className="border-t h-10">
-                <td className="font-semibold">Thursday</td>
-                <td>8:30am</td>
-                <td>-</td>
-                <td>5:00pm</td>
-              </tr>
-              <tr className="border-t h-10">
-                <td className="font-semibold">Friday</td>
-                <td>8:30am</td>
-                <td>-</td>
-                <td>5:00pm</td>
-              </tr>
-              <tr className="border-t h-10">
-                <td className="font-semibold">Saturday</td>
-                <td>Closed</td>
-                <td />
-                <td />
-              </tr>
-              <tr className="border-t h-10">
-                <td className="font-semibold">Sunday</td>
-                <td>Closed</td>
-                <td />
-                <td />
-              </tr>
-            </tbody>
-          </table>
-        </div>
       </div>
     </Layout>
   );
