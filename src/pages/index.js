@@ -50,7 +50,7 @@ function Index({ data }) {
             Clover Hill Pet Care LLC
           </h1>
           <p className="text-base">
-            Offering exceptional pet care servicing Hillsboro, Beaverton, and Portland Oregon. Day visits, Overnights, Hiking, and Coaching.
+            Offering exceptional pet care services in Hillsboro, Beaverton, and Portland Oregon. Day visits, Overnights, Hiking, and Coaching.
           </p>
         </div>
 
