@@ -47,7 +47,7 @@ function Index({ data }) {
       >
         <div className="w-4/5 md:w-3/4 lg:w-7/12 mt-20 font-serif font-hairline self-start">
           <h1 className="text-3xl md:text-5xl text-indigo-700 leading-tight">
-            Clover Hill Pet Care
+            Clover Hill Pet Care LLC
           </h1>
           <p className="text-base">
             Offering exceptional pet care servicing Hillsboro, Beaverton, and Portland Oregon. Day visits, Overnights, Hiking, and Coaching.
